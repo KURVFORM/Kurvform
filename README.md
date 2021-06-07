@@ -1,4 +1,4 @@
-![alt text](https://github.com/KURVFORM/Kurvform/blob/main/KURVFORM_logo_90x90.jpg)
+![Kurvform Logo](https://github.com/KURVFORM/Kurvform/blob/main/KURVFORM_logo_90x90.jpg)
 
 # Kurvform | Digital + Architectural Technology
 
