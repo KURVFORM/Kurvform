@@ -1,5 +1,5 @@
 ![Kurvform Logo](https://github.com/KURVFORM/Kurvform/blob/main/KURVFORM_logo_90x90.jpg)
 
-# Kurvform | Digital + Architectural Technology
+# Kurvform | Digital + BIM 
 
-I'm a digital specialist tinkering with BIM automation and data for Architecture and the Built Environment... :bulb::building_construction::earth_africa:
+I'm a digital specialist tinkering with Automation and Web Technologies for BIM and the Built Environment... :bulb::building_construction::earth_africa:
