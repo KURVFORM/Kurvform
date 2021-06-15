@@ -2,6 +2,4 @@
 
 # Kurvform | Digital + Architectural Technology
 
-I'm a digital specialist tinkering with BIM, Automation and data for Architecture and the Built Environment... :bulb::building_construction::earth_africa:
-
-:tag:
+I'm a digital specialist tinkering with BIM automation and data for Architecture and the Built Environment... :bulb::building_construction::earth_africa:
