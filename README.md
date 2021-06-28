@@ -1,4 +1,4 @@
-# Paul Fassnidge | Digital Tools + Automation
+# Paul Fassnidge | BIM Development + Digital Tools
 
 I'm a developer tinkering with automation and digital tools for BIM and the Built Environment... :bulb::building_construction::earth_africa:
 
