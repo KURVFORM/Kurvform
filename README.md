@@ -4,6 +4,7 @@ I'm a developer tinkering with automation and digital tools for BIM and the Buil
 
 - BIM Consultancy
 - Digital Information leverage
+- Dynamo for Revit
 - Automation scripting
 
 :sunglasses: Currently open to hire...
