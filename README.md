@@ -7,4 +7,4 @@ I'm a developer tinkering with automation and digital tools for BIM and the Buil
 - Digital Information Tools
 - Automation scripting
 
-:sunglasses: Currently open to hire...
+<!--- :sunglasses: Currently open to hire... --->
