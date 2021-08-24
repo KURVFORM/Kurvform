@@ -3,7 +3,7 @@
 I'm a developer tinkering with automation and digital tools for BIM and the Built Environment... :bulb::building_construction::earth_africa:
 
 - BIM Application Development + Consultancy
-- Dynamo for Revit
+- Dynamo for Revit + Python
 - Digital Information Tools
 - Automation scripting
 
