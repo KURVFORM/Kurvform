@@ -1,4 +1,4 @@
-# BlokData | BIM Application Development + Digital Tools
+# BIM Application Development + Digital Tools
 
 I'm a developer tinkering with automation and digital tools for BIM and the Built Environment... :bulb::building_construction::earth_africa:
 
