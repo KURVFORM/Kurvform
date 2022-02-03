@@ -1,9 +1,10 @@
-# BIM Application Development + Design Technology
+# Digital + Design Technologies for the Built Environment
 
-I'm a developer tinkering with digital design systems and automation for the Built Environment... :bulb::building_construction::earth_africa:
+I develop design technology, automation and digital construction solutions for the Built Environment... :bulb::building_construction::earth_africa:
 
-- BIM Application Development + Consultancy
+- BIM Application Development
 - Dynamo for Revit + Python
 - Design Automation Scripting
+- Design for Manufacture & Assembly solutions
 
 <!--- :sunglasses: Currently open to hire... --->
